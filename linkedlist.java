@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;It is a Java Program
 import java.io.*;
 class node
 {
